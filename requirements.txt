@@ -1,0 +1,4 @@
+Flask==3.0.3
+pyjwt==2.8.0
+Flask-Bcrypt==1.0.1
+wsgi-cors==0.1.1
