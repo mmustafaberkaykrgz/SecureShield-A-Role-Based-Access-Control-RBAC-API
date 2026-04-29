@@ -1,4 +1,5 @@
 import logging
+import sqlite3
 from functools import wraps
 from flask import Flask, request, jsonify
 from flask_bcrypt import Bcrypt
