@@ -40,8 +40,5 @@ This project is a secure backend API built with Flask. It demonstrates a robust 
    python demo_test.py
    ```
 
-## Demonstration Video
-[Insert Unlisted YouTube Link Here]
-
 ## Project Report
 The theoretical questions regarding the necessity of Salting against **Rainbow Table** attacks and the risks of storing sensitive data in **JWT payloads** are answered in the `report.md` file included in this repository.
