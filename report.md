@@ -1,9 +1,11 @@
 # Mini Project II: SecureShield - Brief Report
 
 ## Team/Student Details
-- **Name Surname:** [Adınız Soyadınız]
-- **Student ID:** [Öğrenci Numaranız]
-- **Team Name:** [Varsa Takım Adınız]
+- **Team Name:** TrustGuardians
+- **Team Members:**
+  - Mustafa Berkay KARAGÖZ - 220208010
+  - Şeyma BAYRAM - 220208045
+  - Kerim TAŞKIN - 220208927
 
 ---
 

@@ -1,5 +1,10 @@
 # SecureShield: Role-Based Access Control (RBAC) API
 
+**Team TrustGuardians**
+- Mustafa Berkay KARAGÖZ (220208010)
+- Şeyma BAYRAM (220208045)
+- Kerim TAŞKIN (220208927)
+
 This project is a secure backend API built with Flask. It demonstrates a robust authentication flow using **JSON Web Tokens (JWT)** and implements a **Role-Based Access Control (RBAC)** mechanism restricting features based on user roles (Admin vs. User).
 
 ## Features
