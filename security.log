@@ -30,3 +30,9 @@
 2026-04-29 20:05:35,453 - UNAUTHORIZED ATTEMPT (403) - User 'standard_user' with role 'User' attempted to access DELETE /user/1
 2026-04-29 20:07:39,175 - UNAUTHORIZED ATTEMPT (403) - User 'standard_user' with role 'User' attempted to access DELETE /user/1
 2026-04-29 20:09:46,457 - UNAUTHORIZED ATTEMPT (403) - User 'standard_user' with role 'User' attempted to access DELETE /user/1
+2026-04-29 20:44:47,999 - UNAUTHORIZED ATTEMPT (403) - User 'standard_user' with role 'User' attempted to access DELETE /user/1
+2026-04-29 20:48:19,828 - UNAUTHORIZED ATTEMPT (403) - User 'standard_user' with role 'User' attempted to access DELETE /user/1
+2026-04-29 20:50:40,649 - UNAUTHORIZED ATTEMPT (403) - User 'standard_user' with role 'User' attempted to access DELETE /user/1
+2026-04-29 22:22:01,131 - UNAUTHORIZED ATTEMPT (403) - User 'standard_user' with role 'User' attempted to access DELETE /user/1
+2026-04-29 22:23:31,508 - UNAUTHORIZED ATTEMPT (403) - User 'standard_user' with role 'User' attempted to access DELETE /user/1
+2026-04-29 22:24:19,290 - UNAUTHORIZED ATTEMPT (403) - User 'standard_user' with role 'User' attempted to access DELETE /user/1
