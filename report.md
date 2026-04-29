@@ -2,7 +2,7 @@
 
 ## Team/Student Details
 - **Team Name:** TrustGuardians
-- **Team Members:**
+- **Members:**
   - Mustafa Berkay KARAGÖZ - 220208010
   - Şeyma BAYRAM - 220208045
   - Kerim TAŞKIN - 220208927
